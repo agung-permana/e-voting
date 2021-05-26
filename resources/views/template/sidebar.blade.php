@@ -12,6 +12,10 @@
         </li>
 
         <li class="">
+            <a href="{{ route('kelas') }}" class="nav-link"><i class="fas fa-door-open"></i><span>Kelas</span></a>
+        </li>
+
+        <li class="">
             <a href="#" class="nav-link"><i class="fas fa-users"></i><span>Siswa</span></a>
         </li>
 
